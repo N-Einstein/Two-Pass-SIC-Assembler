@@ -1,0 +1,3 @@
+D:/AssemblerSIC/cmake-build-debug/CMakeFiles/AssemblerSIC.dir
+D:/AssemblerSIC/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/AssemblerSIC/cmake-build-debug/CMakeFiles/rebuild_cache.dir

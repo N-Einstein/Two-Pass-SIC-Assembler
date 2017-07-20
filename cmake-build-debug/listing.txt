@@ -1,0 +1,8 @@
+1000	PRBN01  	START	001000            	
+1000	STAB    	RESB 	1100              	
+144c	        	ORG  	STAB              	
+1000	ALPHA   	RESB 	6                 	
+1006	BETA    	RESB 	3                 	
+1009	GAMMA   	RESB 	1                 	
+100a	        	ORG  	                  	
+144c	        	END  	Prbn01            	

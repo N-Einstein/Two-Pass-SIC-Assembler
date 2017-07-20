@@ -1,0 +1,4 @@
+ALPHA   	1000
+BETA    	1006
+GAMMA   	1009
+STAB    	1000
